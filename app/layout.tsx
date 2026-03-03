@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 import CustomCursor from "@/components/CustomCursor";
 
 export const metadata: Metadata = {
-  title: "Alex Dev | Full Stack Developer",
+  title: "Suprim Ojha | Full Stack Developer",
   description: "Full Stack Developer specializing in modern web applications, APIs, and cloud infrastructure.",
 };
 
