@@ -31,7 +31,7 @@ export default function AboutPage() {
                 <h1 className="page-hero-title" style={{ textAlign: "left", fontSize: "clamp(36px,5vw,60px)" }}>
                   Passionate about <span className="gradient-text">building for the web</span>
                 </h1>
-                <p className="about-bio-text">I&apos;m Alex, a full stack developer with 5+ years of experience turning complex problems into elegant digital solutions. I&apos;ve worked with early-stage startups and enterprise companies alike, always focused on shipping high-quality products that people love.</p>
+                <p className="about-bio-text">I&apos;m Suprim, a full stack developer with 5+ years of experience turning complex problems into elegant digital solutions. I&apos;ve worked with early-stage startups and enterprise companies alike, always focused on shipping high-quality products that people love.</p>
                 <p className="about-bio-text">When I&apos;m not coding, you can find me contributing to open source, writing technical articles, or exploring the latest in AI and cloud technologies.</p>
               </div>
             </Reveal>
@@ -44,7 +44,7 @@ export default function AboutPage() {
                     <span className="code-dot" style={{ background: "#28c840" }} />
                   </div>
                   <div className="code-body">
-                    <div><span className="code-kw">const</span> <span className="code-var">alex</span> <span className="code-op">= &#123;</span></div>
+                    <div><span className="code-kw">const</span> <span className="code-var">Suprim</span> <span className="code-op">= &#123;</span></div>
                     <div className="code-indent"><span className="code-key">name</span><span className="code-op">: </span><span className="code-str">&quot;Alex Johnson&quot;</span><span className="code-op">,</span></div>
                     <div className="code-indent"><span className="code-key">role</span><span className="code-op">: </span><span className="code-str">&quot;Full Stack Dev&quot;</span><span className="code-op">,</span></div>
                     <div className="code-indent"><span className="code-key">location</span><span className="code-op">: </span><span className="code-str">&quot;San Francisco&quot;</span><span className="code-op">,</span></div>
