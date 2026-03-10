@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 
-const roles = ["Python Developer","Full Stack Developer","React & Next.js Expert","Node.js Architect","Cloud Solutions Builder","TypeScript Enthusiast"];
+const roles = ["CEO at Schoooli","Python Developer","Full Stack Developer","React & Next.js Expert","Node.js Architect","Cloud Solutions Builder","TypeScript Enthusiast"];
 const particles = [
   { x: "15%", y: "20%", size: 4, color: "#00ff88", dur: "7s", delay: "0s" },
   { x: "80%", y: "15%", size: 6, color: "#0ea5e9", dur: "9s", delay: "1s" },
